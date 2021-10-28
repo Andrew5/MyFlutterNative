@@ -1,2 +1,3 @@
 # MyFlutterNative
 flutter与原生交互
+目前对于flutter还是小白，也在慢慢学习中，此项目会不断不定时更新中……
